@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Halo! Saya adalah pelajar di Universitas Teknologi Yogyakarta yang memiliki minat besar di bidang teknologi dan pemrograman 💻<br><br>🎓 Pelajar Universitas Teknologi Yogyakarta<br><br>🌱 Saat ini sedang mempelajari pemrograman dan pengembangan web<br><br>🔧 Suka mengerjakan project kecil untuk menambah pengalaman<br><br>⚡ Di waktu luang, saya menikmati belajar teknologi baru dan eksplorasi dunia IT</h4>
+<h4 align="left">Halo! Saya adalah pelajar di Universitas Teknologi Yogyakarta dengan prodi sistem informasi yang memiliki minat besar di bidang teknologi dan pemrograman 💻<br><br>🎓 Pelajar Universitas Teknologi Yogyakarta<br><br>🌱 Saat ini sedang mempelajari pemrograman dan pengembangan web<br><br>🔧 Suka mengerjakan project kecil untuk menambah pengalaman<br><br>⚡ Di waktu luang, saya menikmati belajar teknologi baru dan eksplorasi dunia IT</h4>
 
 ###
 
